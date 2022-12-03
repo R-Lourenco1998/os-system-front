@@ -22,3 +22,12 @@
 table {
   width: 100%;
 }
+
+#edit {
+  color: rgb(218, 233, 12);
+}
+
+#delete {
+  color: rgb(233, 92, 92);
+}
+
